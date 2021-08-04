@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication(exclude = { SecurityAutoConfiguration.class })
 @RestController
 public class Project3Application {
-
+//test
     public static void main(String[] args) {
         SpringApplication.run(Project3Application.class, args);
     }
